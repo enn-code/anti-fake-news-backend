@@ -36,7 +36,7 @@
     "body-parser": "^1.13.3",
     "compression": "^1.5.2",
     "cors": "^2.7.1",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "form-data": "^3.0.0",
     "grammarbot": "^1.0.2",
     "morgan": "^1.8.0",
